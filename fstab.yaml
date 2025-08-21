@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-cblair-coder.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://cblair-coder/bin/franklin.delivery/adobe-rnd/testsite/main"
     type: "markup"
     suffix: ".html"
