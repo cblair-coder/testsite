@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://cblair-coder/bin/franklin.delivery/adobe-rnd/testsite/main"
+    url: "https://cblair-coder/bin/franklin.delivery/cblair-coder/testsite/main"
     type: "markup"
     suffix: ".html"
